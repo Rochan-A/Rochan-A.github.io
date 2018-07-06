@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on rochan avlur</title>
-    <link>http://www.rochan-a.github.io/categories/</link>
-    <description>Recent content in Categories on rochan avlur</description>
+    <title>Categories on Rochan Avlur</title>
+    <link>https://rochan-a.github.io/categories/</link>
+    <description>Recent content in Categories on Rochan Avlur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.rochan-a.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rochan-a.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
