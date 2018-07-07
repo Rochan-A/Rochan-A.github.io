@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essays on Rochan Avlur</title>
+    <link>https://rochan-a.github.io/essays/</link>
+    <description>Recent content in Essays on Rochan Avlur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rochan-a.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Philosophy of Altered Carbon - Immortality is not Beautiful</title>
+      <link>https://rochan-a.github.io/essays/altered-carbon/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rochan-a.github.io/essays/altered-carbon/</guid>
+      <description>Rochan Avlur Venkat 1 I am not sure how many of you have heard about the recently released television series created by Laeta Kalogridis that premiered on Netflix on February 2, 2018. The critical reviews that it received during its short ten episode season made it one of the most actively debated and discussed topic in hundreds of communities on the Internet. From casual friday night viewers, to science fiction enthusiasts and all the way to philosophy groups, the first season had something special for everyone to take away.</description>
+    </item>
+    
+  </channel>
+</rss>
