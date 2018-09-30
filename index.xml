@@ -43,5 +43,16 @@ So, see ya soon.
 -Rochan</description>
     </item>
     
+    <item>
+      <title>The journey: sptm - Sentence topic Prediction using Topic Modeling</title>
+      <link>https://rochan-a.github.io/posts/sptm/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rochan-a.github.io/posts/sptm/</guid>
+      <description>During my summer break of freshman year at college, I got the opportunity to work as an intern alongside Anupam Meridatta. My internship required me to work on a Topic Prediction model that later had to be incorporated in a bigger project.
+To begin with, let us take a quick look at the current landscape of the industry, with a focus on prediction models and its applications.
+Prediction models Simply put, prediction makes our lives easy.</description>
+    </item>
+    
   </channel>
 </rss>
